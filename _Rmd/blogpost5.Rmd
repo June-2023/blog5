@@ -28,7 +28,7 @@ In statistics, I will work on data analysis with calculators and can not handle 
 With Shiny, I will create an APP with different applications, and share them remotely, it’s useful and has applications in diverse fields.
 
 
-# o	what areas of statistics/data science are you thinking about exploring further?  
+# what areas of statistics/data science are you thinking about exploring further?  
 
 Through the R study, I got to know the basics of it and applied it to data analysis, while it still needs more practice and time to master R and put it into more applications. I will spend more time on the areas such as machine learning and model fitting, since which are pretty useful and powerful in data analysis.
  
